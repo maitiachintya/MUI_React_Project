@@ -1,4 +1,7 @@
-# screenshot1
-This is the first screenshot here, you can drag any image from your folder and be pasted
+# Web OutPut
+This is Header Part 1
+![Screenshot (143)](https://github.com/user-attachments/assets/3a418c0d-3596-4004-ac89-9d1824d16a12)
 
-![Anole_Lizard_Hilo_Hawaii_edit](https://github.com/user-attachments/assets/60c13929-22c5-40bf-8da9-ac0c70e48b50)
+# Footer Part
+This is footer last part
+![Screenshot (144)](https://github.com/user-attachments/assets/9776cbe8-043f-4207-9c8a-69ca13c75b09)
